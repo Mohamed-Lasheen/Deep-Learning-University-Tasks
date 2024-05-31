@@ -1,2 +1,2 @@
 # Deep_Learning_Tasks_for_College
-This repo contains the tasks for the ASU University FCIS college for the Deeplearning tasks for NN matrial 
+The tasks for the Faculty of Computer and Information Sciences - Ain Shams University for the Deep Learning tasks for Neural Networks. 
